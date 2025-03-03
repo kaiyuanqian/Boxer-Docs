@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Boxer Overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Boxer in less than 5 minutes**.
 
-## Getting Started
+## Boxer's purpose
 
-Get started by **creating a new site**.
+Improve **efficiency** and **organisation** within distribution centers.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Interface between the physical warehouse and Shopify by keeping track of item locations and stock levels.
 
 ### What you'll need
 
