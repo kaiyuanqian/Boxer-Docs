@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# User stories
+# User Stories
 
 | As a/an... | I want to... | So that ... | Solution |
 |------------|--------------|-------------|----------|
