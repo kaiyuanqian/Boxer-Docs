@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkboxer=self.webpackChunkboxer||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/boxer-docs/blog","blogTitle":"Blog","authorsListPath":"/boxer-docs/blog/authors"}')}}]);
